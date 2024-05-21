@@ -11,9 +11,6 @@ This project is a simulation of the FIFO (First In First Out) scheduling algorit
 
 ## Example Output
 
-
-## Example Output
-
 ```sh
 Enter the number of processes (3-10): 7
 Generating random arrival (Ta) and service (Ts) times:
