@@ -9,6 +9,12 @@ This project is a simulation of the FIFO (First In First Out) scheduling algorit
 - Service times (Ts) of the processes are randomly generated (minimum: 5, maximum: 25).
 - The schedule is printed by indicating which process runs in which time interval.
 
+
+## Note
+
+AI designing this code as O(nlogn) complexity while mine is O(n^2) but it uses structs and vectors.
+
+
 ## Example Output
 
 ```sh
@@ -31,3 +37,18 @@ T = 48 -> 55 : P3
 T = 55 -> 75 : P7
 T = 75 -> 90 : P2
 T = 90 -> 99 : P4
+
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
