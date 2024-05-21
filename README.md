@@ -37,8 +37,7 @@ T = 48 -> 55 : P3
 T = 55 -> 75 : P7
 T = 75 -> 90 : P2
 T = 90 -> 99 : P4
-
-
+```
 
 ## Contributing
 
@@ -46,8 +45,6 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-
 
 ## License
 
